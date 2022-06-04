@@ -1,15 +1,17 @@
 * {
-    box-sizing: border-box;
-    background-color:#C4E538;
-    margin-left:20px;
+  box-sizing: border-box;
+  background-color: #c4e538;
+  margin-left: 20px;
 }
 
 .box {
-    height: 100px;
-    width: 100px;
-    border: 1px solid black;
-    display: inline-block;
-    margin-right: 4px;
-    border-radius: 5px;
-
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  margin-right: 4px;
+  border-radius: 5px;
+}
+body {
+  margin-top: 5rem;
 }
